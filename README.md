@@ -1,6 +1,4 @@
 # myformatter
-
-Number Formatter
 =========
 
 A small library that adds commas to numbers
@@ -11,7 +9,7 @@ A small library that adds commas to numbers
 
 ## Usage
 
-    var numFormatter = require('@jdaudier/number-formatter');
+    var numFormatter = require('@codiechanel/number-formatter');
 
     var formattedNum = numFormatter(35666);
   
